@@ -1,0 +1,61 @@
+Dataset,Error_Type,Method,Overestimation,Underestimation,Feature_Reduction_Ratio,Dataset_Size_Ratio
+Reactivity,Data Missing,Mean Imputation,10,14,,
+Reactivity,Data Missing,Median Imputation,10,14,,
+Reactivity,Data Missing,KNN Imputation,10,14,,
+Reactivity,Feature Limitation,,9,20,1%,
+Reactivity,Feature Limitation,,9,15,10%,
+Reactivity,Feature Limitation,,10,16,30%,
+Reactivity,Feature Limitation,,13,19,50%,
+Reactivity,Dataset Size,,11,18,,20%
+Reactivity,Dataset Size,,10,17,,40%
+Reactivity,Dataset Size,,9,18,,60%
+Reactivity,Dataset Size,,8,14,,80%
+Reactivity,Dataset Size,,7,17,,90%
+Reactivity,Data Heterogeneity,No Processing,10,14,,
+Reactivity,Data Heterogeneity,Standardization,10,14,,
+Reactivity,Data Heterogeneity,Normalization,10,14,,
+Toxicity,Data Missing,Mean Imputation,10,3,,
+Toxicity,Data Missing,Median Imputation,10,3,,
+Toxicity,Data Missing,KNN Imputation,10,3,,
+Toxicity,Feature Limitation,,10,5,1%,
+Toxicity,Feature Limitation,,9,3,10%,
+Toxicity,Feature Limitation,,8,3,30%,
+Toxicity,Feature Limitation,,9,6,50%,
+Toxicity,Dataset Size,,8,11,,20%
+Toxicity,Dataset Size,,11,3,,40%
+Toxicity,Dataset Size,,10,5,,60%
+Toxicity,Dataset Size,,12,6,,80%
+Toxicity,Dataset Size,,10,7,,90%
+Toxicity,Data Heterogeneity,No Processing,10,3,,
+Toxicity,Data Heterogeneity,Standardization,10,5,,
+Toxicity,Data Heterogeneity,Normalization,10,3,,
+Flammability,Data Missing,Mean Imputation,3,0,,
+Flammability,Data Missing,Median Imputation,3,0,,
+Flammability,Data Missing,KNN Imputation,3,0,,
+Flammability,Feature Limitation,,3,0,1%,
+Flammability,Feature Limitation,,3,0,10%,
+Flammability,Feature Limitation,,3,0,30%,
+Flammability,Feature Limitation,,3,0,50%,
+Flammability,Dataset Size,,3,0,,20%
+Flammability,Dataset Size,,3,0,,40%
+Flammability,Dataset Size,,3,0,,60%
+Flammability,Dataset Size,,3,0,,80%
+Flammability,Dataset Size,,3,0,,90%
+Flammability,Data Heterogeneity,No Processing,3,0,,
+Flammability,Data Heterogeneity,Standardization,3,0,,
+Flammability,Data Heterogeneity,Normalization,3,0,,
+WR,Data Missing,Mean Imputation,0,15,,
+WR,Data Missing,Median Imputation,1,15,,
+WR,Data Missing,KNN Imputation,0,15,,
+WR,Feature Limitation,,0,15,1%,
+WR,Feature Limitation,,0,14,10%,
+WR,Feature Limitation,,0,14,30%,
+WR,Feature Limitation,,0,14,50%,
+WR,Dataset Size,,2,14,,20%
+WR,Dataset Size,,1,14,,40%
+WR,Dataset Size,,1,15,,60%
+WR,Dataset Size,,0,15,,80%
+WR,Dataset Size,,0,15,,90%
+WR,Data Heterogeneity,No Processing,0,15,,
+WR,Data Heterogeneity,Standardization,0,15,,
+WR,Data Heterogeneity,Normalization,0,15,,

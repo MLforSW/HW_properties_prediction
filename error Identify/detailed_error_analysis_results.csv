@@ -1,0 +1,157 @@
+Dataset,Error_Type,Method,Overestimation,Underestimation,Feature_Reduction_Ratio,Cross_Validation_Folds,Accuracy_Mean,Accuracy_Std
+Reactivity,Data Missing,Mean Imputation,10.0,14.0,,,,
+Reactivity,Data Missing,Median Imputation,10.0,14.0,,,,
+Reactivity,Data Missing,KNN Imputation,10.0,14.0,,,,
+Reactivity,Feature Limitation,,9.0,20.0,1%,,,
+Reactivity,Feature Limitation,,9.0,15.0,10%,,,
+Reactivity,Feature Limitation,,10.0,16.0,30%,,,
+Reactivity,Feature Limitation,,13.0,19.0,50%,,,
+Reactivity,Overfitting,,,,,2.0,0.8021201413427562,0.0
+Reactivity,Overfitting,,,,,5.0,0.8251358484707343,0.02000130616599003
+Reactivity,Overfitting,,,,,10.0,0.7810463659147869,0.06330126575535129
+Reactivity,Overfitting,,,,,20.0,0.7918103448275864,0.07513776305474223
+Reactivity,Data Heterogeneity,No Processing,10.0,14.0,,,,
+Reactivity,Data Missing,Mean Imputation,10.0,14.0,,,,
+Reactivity,Data Missing,Median Imputation,10.0,14.0,,,,
+Reactivity,Data Missing,KNN Imputation,10.0,14.0,,,,
+Reactivity,Feature Limitation,,9.0,20.0,1%,,,
+Reactivity,Feature Limitation,,9.0,15.0,10%,,,
+Reactivity,Feature Limitation,,10.0,16.0,30%,,,
+Reactivity,Feature Limitation,,13.0,19.0,50%,,,
+Reactivity,Overfitting,,,,,2.0,0.8021201413427562,0.0
+Reactivity,Overfitting,,,,,5.0,0.8251358484707343,0.02000130616599003
+Reactivity,Overfitting,,,,,10.0,0.7810463659147869,0.06330126575535129
+Reactivity,Overfitting,,,,,20.0,0.7918103448275864,0.07513776305474223
+Reactivity,Data Heterogeneity,No Processing,10.0,14.0,,,,
+Reactivity,Data Heterogeneity,Standardization,10.0,14.0,,,,
+Reactivity,Data Missing,Mean Imputation,10.0,14.0,,,,
+Reactivity,Data Missing,Median Imputation,10.0,14.0,,,,
+Reactivity,Data Missing,KNN Imputation,10.0,14.0,,,,
+Reactivity,Feature Limitation,,9.0,20.0,1%,,,
+Reactivity,Feature Limitation,,9.0,15.0,10%,,,
+Reactivity,Feature Limitation,,10.0,16.0,30%,,,
+Reactivity,Feature Limitation,,13.0,19.0,50%,,,
+Reactivity,Overfitting,,,,,2.0,0.8021201413427562,0.0
+Reactivity,Overfitting,,,,,5.0,0.8251358484707343,0.02000130616599003
+Reactivity,Overfitting,,,,,10.0,0.7810463659147869,0.06330126575535129
+Reactivity,Overfitting,,,,,20.0,0.7918103448275864,0.07513776305474223
+Reactivity,Data Heterogeneity,No Processing,10.0,14.0,,,,
+Reactivity,Data Heterogeneity,Standardization,10.0,14.0,,,,
+Reactivity,Data Heterogeneity,Normalization,10.0,14.0,,,,
+Toxicity,Data Missing,Mean Imputation,10.0,3.0,,,,
+Toxicity,Data Missing,Median Imputation,10.0,3.0,,,,
+Toxicity,Data Missing,KNN Imputation,10.0,3.0,,,,
+Toxicity,Feature Limitation,,10.0,5.0,1%,,,
+Toxicity,Feature Limitation,,9.0,3.0,10%,,,
+Toxicity,Feature Limitation,,8.0,3.0,30%,,,
+Toxicity,Feature Limitation,,9.0,6.0,50%,,,
+Toxicity,Overfitting,,,,,2.0,0.8692579505300353,0.007067137809187274
+Toxicity,Overfitting,,,,,5.0,0.8568390001552555,0.03300309038050006
+Toxicity,Overfitting,,,,,10.0,0.8728070175438596,0.041654887437452486
+Toxicity,Overfitting,,,,,20.0,0.8568965517241379,0.065952386573692
+Toxicity,Data Heterogeneity,No Processing,10.0,3.0,,,,
+Toxicity,Data Missing,Mean Imputation,10.0,3.0,,,,
+Toxicity,Data Missing,Median Imputation,10.0,3.0,,,,
+Toxicity,Data Missing,KNN Imputation,10.0,3.0,,,,
+Toxicity,Feature Limitation,,10.0,5.0,1%,,,
+Toxicity,Feature Limitation,,9.0,3.0,10%,,,
+Toxicity,Feature Limitation,,8.0,3.0,30%,,,
+Toxicity,Feature Limitation,,9.0,6.0,50%,,,
+Toxicity,Overfitting,,,,,2.0,0.8692579505300353,0.007067137809187274
+Toxicity,Overfitting,,,,,5.0,0.8568390001552555,0.03300309038050006
+Toxicity,Overfitting,,,,,10.0,0.8728070175438596,0.041654887437452486
+Toxicity,Overfitting,,,,,20.0,0.8568965517241379,0.065952386573692
+Toxicity,Data Heterogeneity,No Processing,10.0,3.0,,,,
+Toxicity,Data Heterogeneity,Standardization,10.0,5.0,,,,
+Toxicity,Data Missing,Mean Imputation,10.0,3.0,,,,
+Toxicity,Data Missing,Median Imputation,10.0,3.0,,,,
+Toxicity,Data Missing,KNN Imputation,10.0,3.0,,,,
+Toxicity,Feature Limitation,,10.0,5.0,1%,,,
+Toxicity,Feature Limitation,,9.0,3.0,10%,,,
+Toxicity,Feature Limitation,,8.0,3.0,30%,,,
+Toxicity,Feature Limitation,,9.0,6.0,50%,,,
+Toxicity,Overfitting,,,,,2.0,0.8692579505300353,0.007067137809187274
+Toxicity,Overfitting,,,,,5.0,0.8568390001552555,0.03300309038050006
+Toxicity,Overfitting,,,,,10.0,0.8728070175438596,0.041654887437452486
+Toxicity,Overfitting,,,,,20.0,0.8568965517241379,0.065952386573692
+Toxicity,Data Heterogeneity,No Processing,10.0,3.0,,,,
+Toxicity,Data Heterogeneity,Standardization,10.0,5.0,,,,
+Toxicity,Data Heterogeneity,Normalization,10.0,3.0,,,,
+Flammability,Data Missing,Mean Imputation,3.0,0.0,,,,
+Flammability,Data Missing,Median Imputation,3.0,0.0,,,,
+Flammability,Data Missing,KNN Imputation,3.0,0.0,,,,
+Flammability,Feature Limitation,,3.0,0.0,1%,,,
+Flammability,Feature Limitation,,3.0,0.0,10%,,,
+Flammability,Feature Limitation,,3.0,0.0,30%,,,
+Flammability,Feature Limitation,,3.0,0.0,50%,,,
+Flammability,Overfitting,,,,,2.0,0.9699646643109541,0.0017667844522968323
+Flammability,Overfitting,,,,,5.0,0.9699891321223412,0.008903541589106239
+Flammability,Overfitting,,,,,10.0,0.9700187969924811,0.019314132094978925
+Flammability,Overfitting,,,,,20.0,0.9700123152709359,0.032164495953183325
+Flammability,Data Heterogeneity,No Processing,3.0,0.0,,,,
+Flammability,Data Missing,Mean Imputation,3.0,0.0,,,,
+Flammability,Data Missing,Median Imputation,3.0,0.0,,,,
+Flammability,Data Missing,KNN Imputation,3.0,0.0,,,,
+Flammability,Feature Limitation,,3.0,0.0,1%,,,
+Flammability,Feature Limitation,,3.0,0.0,10%,,,
+Flammability,Feature Limitation,,3.0,0.0,30%,,,
+Flammability,Feature Limitation,,3.0,0.0,50%,,,
+Flammability,Overfitting,,,,,2.0,0.9699646643109541,0.0017667844522968323
+Flammability,Overfitting,,,,,5.0,0.9699891321223412,0.008903541589106239
+Flammability,Overfitting,,,,,10.0,0.9700187969924811,0.019314132094978925
+Flammability,Overfitting,,,,,20.0,0.9700123152709359,0.032164495953183325
+Flammability,Data Heterogeneity,No Processing,3.0,0.0,,,,
+Flammability,Data Heterogeneity,Standardization,3.0,0.0,,,,
+Flammability,Data Missing,Mean Imputation,3.0,0.0,,,,
+Flammability,Data Missing,Median Imputation,3.0,0.0,,,,
+Flammability,Data Missing,KNN Imputation,3.0,0.0,,,,
+Flammability,Feature Limitation,,3.0,0.0,1%,,,
+Flammability,Feature Limitation,,3.0,0.0,10%,,,
+Flammability,Feature Limitation,,3.0,0.0,30%,,,
+Flammability,Feature Limitation,,3.0,0.0,50%,,,
+Flammability,Overfitting,,,,,2.0,0.9699646643109541,0.0017667844522968323
+Flammability,Overfitting,,,,,5.0,0.9699891321223412,0.008903541589106239
+Flammability,Overfitting,,,,,10.0,0.9700187969924811,0.019314132094978925
+Flammability,Overfitting,,,,,20.0,0.9700123152709359,0.032164495953183325
+Flammability,Data Heterogeneity,No Processing,3.0,0.0,,,,
+Flammability,Data Heterogeneity,Standardization,3.0,0.0,,,,
+Flammability,Data Heterogeneity,Normalization,3.0,0.0,,,,
+WR,Data Missing,Mean Imputation,0.0,15.0,,,,
+WR,Data Missing,Median Imputation,0.0,15.0,,,,
+WR,Data Missing,KNN Imputation,0.0,15.0,,,,
+WR,Feature Limitation,,1.0,15.0,1%,,,
+WR,Feature Limitation,,0.0,14.0,10%,,,
+WR,Feature Limitation,,0.0,15.0,30%,,,
+WR,Feature Limitation,,0.0,15.0,50%,,,
+WR,Overfitting,,,,,2.0,0.9346289752650176,0.008833922261484106
+WR,Overfitting,,,,,5.0,0.9346219531128707,0.016438342697923804
+WR,Overfitting,,,,,10.0,0.9327067669172932,0.029791832993411607
+WR,Overfitting,,,,,20.0,0.9346059113300493,0.045543030834042396
+WR,Data Heterogeneity,No Processing,0.0,15.0,,,,
+WR,Data Missing,Mean Imputation,0.0,15.0,,,,
+WR,Data Missing,Median Imputation,0.0,15.0,,,,
+WR,Data Missing,KNN Imputation,0.0,15.0,,,,
+WR,Feature Limitation,,1.0,15.0,1%,,,
+WR,Feature Limitation,,0.0,14.0,10%,,,
+WR,Feature Limitation,,0.0,15.0,30%,,,
+WR,Feature Limitation,,0.0,15.0,50%,,,
+WR,Overfitting,,,,,2.0,0.9346289752650176,0.008833922261484106
+WR,Overfitting,,,,,5.0,0.9346219531128707,0.016438342697923804
+WR,Overfitting,,,,,10.0,0.9327067669172932,0.029791832993411607
+WR,Overfitting,,,,,20.0,0.9346059113300493,0.045543030834042396
+WR,Data Heterogeneity,No Processing,0.0,15.0,,,,
+WR,Data Heterogeneity,Standardization,0.0,15.0,,,,
+WR,Data Missing,Mean Imputation,0.0,15.0,,,,
+WR,Data Missing,Median Imputation,0.0,15.0,,,,
+WR,Data Missing,KNN Imputation,0.0,15.0,,,,
+WR,Feature Limitation,,1.0,15.0,1%,,,
+WR,Feature Limitation,,0.0,14.0,10%,,,
+WR,Feature Limitation,,0.0,15.0,30%,,,
+WR,Feature Limitation,,0.0,15.0,50%,,,
+WR,Overfitting,,,,,2.0,0.9346289752650176,0.008833922261484106
+WR,Overfitting,,,,,5.0,0.9346219531128707,0.016438342697923804
+WR,Overfitting,,,,,10.0,0.9327067669172932,0.029791832993411607
+WR,Overfitting,,,,,20.0,0.9346059113300493,0.045543030834042396
+WR,Data Heterogeneity,No Processing,0.0,15.0,,,,
+WR,Data Heterogeneity,Standardization,0.0,15.0,,,,
+WR,Data Heterogeneity,Normalization,0.0,15.0,,,,

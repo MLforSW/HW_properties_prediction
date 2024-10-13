@@ -1,0 +1,181 @@
+source,target,value
+Data Missing,Reactivity,24
+Reactivity,Overestimations,10
+Reactivity,Underestimations,14
+Data Missing,Reactivity,24
+Reactivity,Overestimations,10
+Reactivity,Underestimations,14
+Data Missing,Reactivity,24
+Reactivity,Overestimations,10
+Reactivity,Underestimations,14
+Feature Limitation,Reactivity,29
+Reactivity,Overestimations,9
+Reactivity,Underestimations,20
+Feature Limitation,Reactivity,24
+Reactivity,Overestimations,9
+Reactivity,Underestimations,15
+Feature Limitation,Reactivity,26
+Reactivity,Overestimations,10
+Reactivity,Underestimations,16
+Feature Limitation,Reactivity,32
+Reactivity,Overestimations,13
+Reactivity,Underestimations,19
+Dataset Size,Reactivity,29
+Reactivity,Overestimations,11
+Reactivity,Underestimations,18
+Dataset Size,Reactivity,27
+Reactivity,Overestimations,10
+Reactivity,Underestimations,17
+Dataset Size,Reactivity,27
+Reactivity,Overestimations,9
+Reactivity,Underestimations,18
+Dataset Size,Reactivity,22
+Reactivity,Overestimations,8
+Reactivity,Underestimations,14
+Dataset Size,Reactivity,24
+Reactivity,Overestimations,7
+Reactivity,Underestimations,17
+Data Heterogeneity,Reactivity,24
+Reactivity,Overestimations,10
+Reactivity,Underestimations,14
+Data Heterogeneity,Reactivity,24
+Reactivity,Overestimations,10
+Reactivity,Underestimations,14
+Data Heterogeneity,Reactivity,24
+Reactivity,Overestimations,10
+Reactivity,Underestimations,14
+Data Missing,Toxicity,13
+Toxicity,Overestimations,10
+Toxicity,Underestimations,3
+Data Missing,Toxicity,13
+Toxicity,Overestimations,10
+Toxicity,Underestimations,3
+Data Missing,Toxicity,13
+Toxicity,Overestimations,10
+Toxicity,Underestimations,3
+Feature Limitation,Toxicity,15
+Toxicity,Overestimations,10
+Toxicity,Underestimations,5
+Feature Limitation,Toxicity,12
+Toxicity,Overestimations,9
+Toxicity,Underestimations,3
+Feature Limitation,Toxicity,11
+Toxicity,Overestimations,8
+Toxicity,Underestimations,3
+Feature Limitation,Toxicity,15
+Toxicity,Overestimations,9
+Toxicity,Underestimations,6
+Dataset Size,Toxicity,19
+Toxicity,Overestimations,8
+Toxicity,Underestimations,11
+Dataset Size,Toxicity,14
+Toxicity,Overestimations,11
+Toxicity,Underestimations,3
+Dataset Size,Toxicity,15
+Toxicity,Overestimations,10
+Toxicity,Underestimations,5
+Dataset Size,Toxicity,18
+Toxicity,Overestimations,12
+Toxicity,Underestimations,6
+Dataset Size,Toxicity,17
+Toxicity,Overestimations,10
+Toxicity,Underestimations,7
+Data Heterogeneity,Toxicity,13
+Toxicity,Overestimations,10
+Toxicity,Underestimations,3
+Data Heterogeneity,Toxicity,15
+Toxicity,Overestimations,10
+Toxicity,Underestimations,5
+Data Heterogeneity,Toxicity,13
+Toxicity,Overestimations,10
+Toxicity,Underestimations,3
+Data Missing,Flammability,3
+Flammability,Overestimations,3
+Flammability,Underestimations,0
+Data Missing,Flammability,3
+Flammability,Overestimations,3
+Flammability,Underestimations,0
+Data Missing,Flammability,3
+Flammability,Overestimations,3
+Flammability,Underestimations,0
+Feature Limitation,Flammability,3
+Flammability,Overestimations,3
+Flammability,Underestimations,0
+Feature Limitation,Flammability,3
+Flammability,Overestimations,3
+Flammability,Underestimations,0
+Feature Limitation,Flammability,3
+Flammability,Overestimations,3
+Flammability,Underestimations,0
+Feature Limitation,Flammability,3
+Flammability,Overestimations,3
+Flammability,Underestimations,0
+Dataset Size,Flammability,3
+Flammability,Overestimations,3
+Flammability,Underestimations,0
+Dataset Size,Flammability,3
+Flammability,Overestimations,3
+Flammability,Underestimations,0
+Dataset Size,Flammability,3
+Flammability,Overestimations,3
+Flammability,Underestimations,0
+Dataset Size,Flammability,3
+Flammability,Overestimations,3
+Flammability,Underestimations,0
+Dataset Size,Flammability,3
+Flammability,Overestimations,3
+Flammability,Underestimations,0
+Data Heterogeneity,Flammability,3
+Flammability,Overestimations,3
+Flammability,Underestimations,0
+Data Heterogeneity,Flammability,3
+Flammability,Overestimations,3
+Flammability,Underestimations,0
+Data Heterogeneity,Flammability,3
+Flammability,Overestimations,3
+Flammability,Underestimations,0
+Data Missing,WR,15
+WR,Overestimations,0
+WR,Underestimations,15
+Data Missing,WR,16
+WR,Overestimations,1
+WR,Underestimations,15
+Data Missing,WR,15
+WR,Overestimations,0
+WR,Underestimations,15
+Feature Limitation,WR,15
+WR,Overestimations,0
+WR,Underestimations,15
+Feature Limitation,WR,14
+WR,Overestimations,0
+WR,Underestimations,14
+Feature Limitation,WR,14
+WR,Overestimations,0
+WR,Underestimations,14
+Feature Limitation,WR,14
+WR,Overestimations,0
+WR,Underestimations,14
+Dataset Size,WR,16
+WR,Overestimations,2
+WR,Underestimations,14
+Dataset Size,WR,15
+WR,Overestimations,1
+WR,Underestimations,14
+Dataset Size,WR,16
+WR,Overestimations,1
+WR,Underestimations,15
+Dataset Size,WR,15
+WR,Overestimations,0
+WR,Underestimations,15
+Dataset Size,WR,15
+WR,Overestimations,0
+WR,Underestimations,15
+Data Heterogeneity,WR,15
+WR,Overestimations,0
+WR,Underestimations,15
+Data Heterogeneity,WR,15
+WR,Overestimations,0
+WR,Underestimations,15
+Data Heterogeneity,WR,15
+WR,Overestimations,0
+WR,Underestimations,15

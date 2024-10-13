@@ -1,0 +1,14 @@
+Error_Type,Method,ROC_AUC,Feature_Reduction_Ratio,Cross_Validation_Folds,ROC_AUC_Mean,ROC_AUC_Std
+Data Missing,Mean Imputation,0.8921775898520085,,,,
+Data Missing,Median Imputation,0.8877143528306318,,,,
+Data Missing,KNN Imputation,0.8870096311956777,,,,
+Feature Limitation,,0.8881841672539347,1%,,,
+Feature Limitation,,0.8837209302325582,10%,,,
+Feature Limitation,,0.8809020436927413,30%,,,
+Feature Limitation,,0.8642236316654921,50%,,,
+Overfitting,,,,2.0,0.8446014173135732,0.0026462891084450546
+Overfitting,,,,5.0,0.8603195434380609,0.03972189289290976
+Overfitting,,,,10.0,0.8396410825272612,0.06475257778135338
+Overfitting,,,,20.0,0.8577577852616673,0.08011076203336932
+Data Heterogeneity,Standardization,0.8921775898520086,,,,
+Data Heterogeneity,Normalization,0.8921775898520086,,,,
